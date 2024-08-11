@@ -1,4 +1,4 @@
-0x05. AirBnB clone - RESTful API
+0x06. AirBnB clone - Web dynamic
 
 *description of the project*
 
